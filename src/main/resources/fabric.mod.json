@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "test-task",
+	"version": "1.0.0",
+	"name": "Test Task Mod",
+	"description": "A test mod for messaging system",
+	"authors": ["Dain_PLay"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/test-task/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dainplay.TestTask"
+		],
+		"client": [
+			"net.dainplay.client.TestTaskClient"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
