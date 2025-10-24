@@ -1,0 +1,7 @@
+{
+  "category.testtask": "Test Task",
+  "key.testtask.open_screen": "Open Send Message Screen",
+  "testtask.button.send": "Send",
+  "testtask.screen.title": "Send Message to Database",
+  "testtask.textfield.placeholder": "Enter message"
+}

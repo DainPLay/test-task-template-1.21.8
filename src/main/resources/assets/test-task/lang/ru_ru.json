@@ -1,0 +1,7 @@
+{
+  "category.testtask": "Тестовое задание",
+  "key.testtask.open_screen": "Открыть экран отправки сообщения",
+  "testtask.button.send": "Отправить",
+  "testtask.screen.title": "Отправить сообщение в базу данных",
+  "testtask.textfield.placeholder": "Введите сообщение"
+}
